@@ -1,0 +1,28 @@
+{
+  "name": "url-shortener-react",
+  "version": "0.0.1",
+  "description": "URL Shortener React app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusberro/url-shortener-react.git"
+  },
+  "keywords": [
+    "URL",
+    "Shortener",
+    "Node",
+    "React",
+    "Single-page",
+    "Application"
+  ],
+  "author": "Marcus Berro",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/marcusberro/url-shortener-react/issues"
+  },
+  "homepage": "https://github.com/marcusberro/url-shortener-react#readme"
+}
